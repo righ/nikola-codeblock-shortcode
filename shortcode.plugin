@@ -1,0 +1,12 @@
+[Core]
+Name = codeblock_shortcode
+Module = shortcode
+
+[Nikola]
+PluginCategory = ShortcodePlugin
+
+[Documentation]
+Author = Righ
+Version = 0.1
+Website = https://note.crohaco.net/
+Description = Insert a file content into rst as code-block
